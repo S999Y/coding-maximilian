@@ -5,10 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node api.js && node app.js"
   },
   "keywords": [],
-  "author": "Maximilian Schwarzmüller (Academind GmbH)",
+  "author": "Maximilian Schwarzm\u00fcller (Academind GmbH)",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
